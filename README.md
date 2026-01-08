@@ -6,6 +6,7 @@
 ---
 
 ## 📅 Monthly Index
+### 2026.01
 
 | Day | Problem | Platform | Difficulty | Type | Code |
 | --- | ------- | -------- | ---------- | ---- | ---- |
