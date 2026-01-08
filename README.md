@@ -9,18 +9,18 @@
 
 | Month | Period | Link |
 |------|-------|------|
-| January | 01.01 ~ 01.31 | [📂 January](./01_January) |
-| February | 02.01 ~ 02.28 | [📂 February](./02_February) |
-| March | 03.01 ~ 03.31 | [📂 March](./03_March) |
-| April | 04.01 ~ 04.30 | [📂 April](./04_April) |
-| May | 05.01 ~ 05.31 | [📂 May](./05_May) |
-| June | 06.01 ~ 06.30 | [📂 June](./06_June) |
-| July | 07.01 ~ 07.31 | [📂 July](./07_July) |
-| August | 08.01 ~ 08.31 | [📂 August](./08_August) |
-| September | 09.01 ~ 09.30 | [📂 September](./09_September) |
-| October | 10.01 ~ 10.31 | [📂 October](./10_October) |
-| November | 11.01 ~ 11.30 | [📂 November](./11_November) |
-| December | 12.01 ~ 12.31 | [📂 December](./12_December) |
+| January | 01.01 ~ 01.31 | [📂 January](./months/01_January) |
+| February | 02.01 ~ 02.28 | [📂 February](./months/02_February) |
+| March | 03.01 ~ 03.31 | [📂 March](./months/03_March) |
+| April | 04.01 ~ 04.30 | [📂 April](./months/04_April) |
+| May | 05.01 ~ 05.31 | [📂 May](./months/05_May) |
+| June | 06.01 ~ 06.30 | [📂 June](./months/06_June) |
+| July | 07.01 ~ 07.31 | [📂 July](./months/07_July) |
+| August | 08.01 ~ 08.31 | [📂 August](./months/08_August) |
+| September | 09.01 ~ 09.30 | [📂 September](./months/09_September) |
+| October | 10.01 ~ 10.31 | [📂 October](./months/10_October) |
+| November | 11.01 ~ 11.30 | [📂 November](./months/11_November) |
+| December | 12.01 ~ 12.31 | [📂 December](./months/12_December) |
 
 ---
 
