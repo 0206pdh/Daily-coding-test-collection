@@ -9,7 +9,7 @@
 | 03 |  |  |  |  |  |
 | 04 |  |  |  |  |  |
 | 05 |  |  |  |  |  |
-| 06 | 11399 | BOJ | S4 | greedy/sort |  |
+| 06 | 11399 | BOJ | S4 | greedy/sort | [11399 code](https://www.notion.so/11399-2e0adf15e1cd80cf9afbcddfeb06ab9e) |
 | 07 | 2606 | BOJ | S3 | graph/dfs |  |
 | 08 | 1929 | BOJ | S3 | math |  |
 | 09 | 1012 | BOJ | S2 | graph/dfs |  |
